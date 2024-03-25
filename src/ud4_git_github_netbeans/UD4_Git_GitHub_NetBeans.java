@@ -14,6 +14,8 @@ public class UD4_Git_GitHub_NetBeans {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        System.out.println("HoLa MuNdO"); 
         // TODO code application logic here
     }
     
